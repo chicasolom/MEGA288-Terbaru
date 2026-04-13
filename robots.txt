@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mega288-terbaru.pages.dev/sitemap.xml
